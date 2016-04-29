@@ -1,2 +1,2 @@
 # hello-world
-first attemp to do sth
+I like playing guitar
